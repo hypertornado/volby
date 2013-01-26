@@ -1,4 +1,2 @@
-volby
+Analýza voleb
 =====
-
-volby
